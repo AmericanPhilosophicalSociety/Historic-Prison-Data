@@ -22,7 +22,7 @@ Prisoner Numbers: 1941-2600
 ## How these datasets were created 
 This is the work of dedicated volunteers at the American Philosophical Society Library, notably Michelle Ziogas. 
 
-## What these dataset are not
+## What these datasets are not
 This is not a replacement for viewing the original admission books. Care was taken to minimize mistakes and inconsistancies while creating these dataset, but it is being offered "as is". Despite the best efforts of all involved, mistakes often occur during the creation of datasets. Scholars are encouraged to consult the original records, in digital or physical format. Digitized versions are availble through the collection finding aid: http://amphilsoc.org/collections/view?docId=ead/Mss.365.P381p-ead.xml
 
 ## Credits
