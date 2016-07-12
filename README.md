@@ -6,14 +6,17 @@ These datasets contain data from the three admission books held at the American 
 
 ###Admission Book A
 Dates: 1830-1839
+
 Prisoner Numbers: 20-1124
 
 ###Admission Book B
 Dates: 1839-1843
+
 Prisoner Numbers: 1125-1677
 
 ###Admission Book D
 Dates: 1845-1850
+
 Prisoner Numbers: 1941-2600
 
 ## How these datasets were created 
