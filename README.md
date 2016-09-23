@@ -28,7 +28,7 @@ Double brackets ( [[ ]] ) are used to denote words that are not legible, or when
 Abbreviations are left in place. We encourage users to download and manipulate the data as needed.  
 
 ## What these datasets are not
-This is not a replacement for viewing the original admission books. Care was taken to minimize mistakes and inconsistancies while creating these datasets, but each one is being offered "as is". Despite the best efforts of all involved, mistakes often occur during the creation of datasets. Scholars are encouraged to consult the original records, in digital or physical format. Digitized versions are availble through the collection finding aid: http://amphilsoc.org/collections/view?docId=ead/Mss.365.P381p-ead.xml
+This is not a replacement for viewing the original admission books. Care was taken to minimize mistakes and inconsistencies while creating these datasets, but each one is being offered "as is". Despite the best efforts of all involved, mistakes often occur during the creation of datasets. Scholars are encouraged to consult the original records, in digital or physical format. Digitized versions are available through the collection finding aid: http://amphilsoc.org/collections/view?docId=ead/Mss.365.P381p-ead.xml
 
 ## Credits
 Michelle Ziogas did the majority of the work; the project was initiated and managed by Scott Ziegler. 
