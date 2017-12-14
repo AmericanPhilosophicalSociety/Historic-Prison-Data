@@ -4,17 +4,17 @@ Data from Admission Books of the Eastern State Penitentiary in Philadelphia, PA
 ## About these Datasets
 These datasets contain data from the three admission books held at the American Philosophical Society Library,  including inmate name, crime, sentence, place of origin, race/ethnicity, time in and time out, and comments on moral and educational condition. Some also include notes on previous convictions or progress made while incarcerated. A typical entry: "No. 58, Dec. 14, 1830. Saml Davis, Mulatto, Rape 12 yrs. Exceedingly excited, Enraged at the Judge & threatened revenge, Swore if knife or Pistol could be had, would revenge his wrongs upon his prosecutor also had sold himself to the Devil & meant to rush on to hell for revenge -- did not wish to hear of religion. Pardoned Nov. 21, 1842."
 
-###Admission Book A
+### Admission Book A
 Dates: 1830-1839
 
 Prisoner Numbers: 20-1124
 
-###Admission Book B
+### Admission Book B
 Dates: 1839-1843
 
 Prisoner Numbers: 1125-1677
 
-###Admission Book D
+### Admission Book D
 Dates: 1845-1850
 
 Prisoner Numbers: 1941-2600
@@ -22,7 +22,7 @@ Prisoner Numbers: 1941-2600
 ## How these datasets were created 
 This is the work of dedicated volunteers at the American Philosophical Society Library, notably Michelle Ziogas. 
 
-###Conventions used
+### Conventions used
 Double brackets ( [[ ]] ) are used to denote words that are not legible, or when there are other doubts about the text. 
 
 Abbreviations are left in place. We encourage users to download and manipulate the data as needed.  
