@@ -17,3 +17,4 @@ A limitation in the data is that there are a lot more entries of male inmates th
 female inmates, so it might be more difficult to make generalizations about female inmates.
 This could be the reason why there are more outliers for female inmates
 ------
+HK- I looked at App 3: Inmates by Length of Sentence
