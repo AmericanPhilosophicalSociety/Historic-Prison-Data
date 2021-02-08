@@ -1,5 +1,36 @@
 Hi, guys -- just to let you know I am linked as a collaborator.  //Jim
 
+--PV First visualization-- 
+I did a visualization using the first app (Word Frequencies) to see which words were 
+commonly used by the Moral Instructor to describe different groups of prisoners. I used
+a combination of the word clouds, comparative frequencies plot, and keyword exploration 
+to find the most interesting keywords for these groups. 
+Comparing male and female prisoners, I can see that:
+1. Words frequently used in the description of both groups are: hardened, stupid, attacked, 
+mother (used in description of the inmate's family), religious (used in description of 
+religious background)
+2. Words more frequently associated with female inmates are: licentiousness, tears, repent,
+shame, ill, husband (used in description of the inmate's husband), theft
+3. Words more frequently associated with male inmates are: drink, tavern, mind, rob, arrested
+(There are a lot of words but I just note down the interesting ones)
+A limitation in the data is that there are a lot more entries of male inmates than entries of
+female inmates, so it might be more difficult to make generalizations about female inmates.
+This could be the reason why there are more outliers for female inmates
+------
+
+--PV Second visualization--
+Continuing with the first app, I compared literate (able to read and write) and illiterate 
+prisoners:
+1. Words frequently used in the description of both groups are: drink, parents, evil, religious,
+farmer
+2. Words more frequently associated with literate inmates are pious, law, bible, associations,
+admits
+3. Words more frequently associated with illiterate inmates are stupid, ignorant, enmity, soul
+For this visualization, I only used 2 out of 4 categories for literacy. An additional visualization 
+that would be interesting to do is to incorporate 2 other categories (reads only, and reads other
+languages) to see if there are any interesting differences from the two extremes
+----
+
 HK- I looked at App 3: Inmates by Length of Sentence
 HK "App 3 allows the user to select a range of months via an interactive slider
  representing a sentencing length. The data utilized from the repo includes
