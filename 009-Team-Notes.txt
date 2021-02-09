@@ -13,6 +13,9 @@ religious background)
 shame, ill, husband (used in description of the inmate's husband), theft
 3. Words more frequently associated with male inmates are: drink, tavern, mind, rob, arrested
 (There are a lot of words but I just note down the interesting ones)
+The trend seems to be that female prisoners were associated with many conventionally "undesirable" 
+traits for women such as sexual promiscuity and weakness, while male prisoners were associated with 
+drinking and lack of sobriety more.
 A limitation in the data is that there are a lot more entries of male inmates than entries of
 female inmates, so it might be more difficult to make generalizations about female inmates.
 This could be the reason why there are more outliers for female inmates
@@ -26,6 +29,8 @@ farmer
 2. Words more frequently associated with literate inmates are pious, law, bible, associations,
 admits
 3. Words more frequently associated with illiterate inmates are stupid, ignorant, enmity, soul
+The trend seems to be that more "respectful" words (containing religious references) were used 
+to describe literate inmates, while harsher and cruder words were used to describe illiterate inmates
 For this visualization, I only used 2 out of 4 categories for literacy. An additional visualization
 that would be interesting to do is to incorporate 2 other categories (reads only, and reads other
 languages) to see if there are any interesting differences from the two extremes
@@ -125,3 +130,11 @@ and Discharge Notes. It was really fascinating to scroll through the list of inm
 their information and the personal notes that were added about them. What I also found
 interesting is that "Gender" was not listed as a category in this dataset and there was a
 mix of male and female inmates.
+
+
+------------------- RP: Visualization 1 -------------------
+For this visualization, I used app number two (sentencing of inmates histogram builder) to plot the sentence lengths for all inmates identified as European in their intake papers. It is quite clear from this graph that the sentences skew short; European prisoners are the only category which does not contain any sentences over ~5 years. This clearly supports the idea that, like the modern US criminal justice system, sentences skew harsher for people of color (e.g. black Americans) than white Americans. 
+With that said, this dataset suffers from a low sample size, likely because of the limitations of digitizing all of the prison’s data and the relatively lower population.
+One major shortcoming of this visualization tool is that you are only capable of displaying one graph at a time, which makes comparative analysis difficult. Given the current state of the project, it would be relatively trivial to include a few simple summary statistics as well as an option to select the number of graphs present at a time (which could be discerned by an auto-populated legend).
+-----------------------------------------------------------------
+
