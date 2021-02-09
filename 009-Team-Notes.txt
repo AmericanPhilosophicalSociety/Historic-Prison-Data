@@ -1,4 +1,11 @@
 Hi, guys -- just to let you know I am linked as a collaborator.  //Jim
+You did a really good job on this, looking at both the visualizations and
+the data.  I agree that two of the major shortcomings of the database are
+too short a time frame and too little demographic info.  Heidi's finding re
+the contrasting word frequencies in Moral Intructor notes for short-sentence
+vs long-sentence inmates is striking.  The group's findings on gender are
+interesting as well; from a data analysis point of view, one would wish for 
+more women prisoners!  Jim
 
 --PV First visualization--
 I did a visualization using the first app (Word Frequencies) to see which words were
