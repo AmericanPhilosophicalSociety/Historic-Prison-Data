@@ -87,3 +87,16 @@ HK- I looked at App 3: Inmates by Length of Sentence
  data temporally might provide insight on the changing diction in sentencing notes
  during different decades. I.e. language before widespread use of motor vehicles
  on theft of horses vs. after vehicles are used widely.
+ 
+ --NH Overview--
+My observation was focused on App 2: Sentencing of Inmates.
+This App covered the patterns that were found in the sentencing of inmates. Through this App you can edit the variables of each inmate (Gender, Ethicity, Race, Age, etc) in order to see the average sentencing for this demographic and the locations where these sentencings took place. Your result will also provide you with the inmates name, charge, and prisoner number. If any of this information is unavailable the App indicates as such.
+
+--NH Visualization One--
+For my first visualization I decided to test the variables and enter in my own demographic information to see what kind of results would appear. But, unfortunately no results appeared. I was surprised to see not one result appear but this did encouraged me to continue to slightly alter my demographic information in order to find an inmate(s) who matches that. I started working through the variables from top to bottom; starting with "Place of Birth" and ending with "Prior Convictions". When I did get a result, the information was led off by a graph with the Y axis being "Inmates Sentences" and the X axis being "Sentence in Months". I found this interesting because if you did not closely read the axis of the graph you might assume that "Sentence" in the spreadsheet below is in "years" and not "months". Otherwise all of this information was easy to read, user-friendly, and interesting to engage with.
+
+--NH Visualization Two--
+For my second visualization I turned to investigate the sources that are listed in the inmate spreadsheet. I first looked through "Volume B:Admissions". This volume is outsources from the American Philisophical Society Library's website. From there you can view the Admissions volume in pictures, zooming in on a specific page if you choose to, or simply scrolling through pictures of the book itself. Additionally, a CSV dataset of the Admissions B volume, which contains all the admissions from 1839-1843, shows an even more indepth look at the data that is organized within the text. 
+
+--NH Visualization Three--
+For my third visualization I continued to explore the Admissions B CSV file. The spreadsheet contained inmates: First Name, Last Name, Age, Birthplace, Ethnicity, Prison Number, Admission Date Sentencing Location, Offense, Sentencing, Number of Convictions, Column Notes, and Discharge Notes. It was really fascinating to scroll through the list of inmates and their information and the personal notes that were added about them. What I also found interesting is that "Gender" was not listed as a category in this dataset and there was a mix of male and female inmates.
