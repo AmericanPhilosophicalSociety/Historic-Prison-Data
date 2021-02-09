@@ -61,7 +61,8 @@ HK- I looked at App 3: Inmates by Length of Sentence
   information about the collecting of demographic data during the time period.
 
  -----Visualization 2----
- The next visualization tab. "Moral Instructor's Notes" utilizes the moral instructors notes to create a word
+ The next visualization tab. "Moral Instructor's Notes" utilizes the moral instructors 
+ notes to create a word
  frequency visualization, the html formatting of which is difficult to read.
  Sometimes words are too small to make out or are cut off by the display box.
  Additional useful data to add to this tab would be; instead of listing admissions
@@ -101,11 +102,11 @@ For my first visualization I decided to test the variables and enter in my own d
 information to see what kind of results would appear. But, unfortunately no results appeared.
 I was surprised to see not one result appear but this did encouraged me to continue to slightly
 alter my demographic information in order to find an inmate(s) who matches that. I started working
-through the variables from top to bottom; starting with "Place of Birth" and ending with "Prior Convictions". When I did get a result, the information was led off by a graph with the Y axis 
-being "Inmates Sentences" and the X axis being "Sentence in Months". I found this interesting 
-because if you did not closely read the axis of the graph you might assume that "Sentence" in 
-the spreadsheet below is in "years" and not "months". Otherwise all of this information was easy 
-to read, user-friendly, and interesting to engage with.
+through the variables from top to bottom; starting with "Place of Birth" and ending with "Prior Convictions". When I did get a result, the information was led off by a graph with the 
+Y axis being "Inmates Sentences" and the X axis being "Sentence in Months". I found 
+this interesting because if you did not closely read the axis of the graph you might 
+assume that "Sentence" in the spreadsheet below is in "years" and not "months". Otherwise
+all of this information was easy to read, user-friendly, and interesting to engage with.
 
 --NH Visualization Two--
 For my second visualization I turned to investigate the sources that are listed in the 
