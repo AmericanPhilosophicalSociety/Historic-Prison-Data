@@ -1,11 +1,23 @@
 Hi, guys -- just to let you know I am linked as a collaborator.  //Jim
-You did a really good job on this, looking at both the visualizations and
-the data.  I agree that two of the major shortcomings of the database are
+My comments:  You did a really good job on this, looking at both the visualizations and
+the data.  Nianh: I appreciate the time you spent in the csv files.
+I agree that two of the major shortcomings of the database are
 too short a time frame and too little demographic info.  Heidi's finding re
 the contrasting word frequencies in Moral Intructor notes for short-sentence
 vs long-sentence inmates is striking.  The group's findings on gender are
 interesting as well; from a data analysis point of view, one would wish for 
-more women prisoners!  Jim
+more women prisoners! Also implicit in some of your observations is that the time
+span is not long enough to support analysis of historical trends.  Indeed, as Rob
+points out with respect to race vs sentence length, we can see possible
+patterns in this data that we cannot confirm without significantly larger sample
+sizes.  The pattern Phuong observed in moral language associated with literate vs
+illiterate prisoners probably does stand up -- and as Rob rightly says, this is a
+nice example of the way institutional discourse not only classifies individuals 
+but subjects them to biopower governance.
+
+you guys get 9.5/10 on this.
+
+Jim
 
 --PV First visualization--
 I did a visualization using the first app (Word Frequencies) to see which words were
