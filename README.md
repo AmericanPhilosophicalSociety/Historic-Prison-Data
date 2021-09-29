@@ -31,7 +31,7 @@ Abbreviations are left in place. We encourage users to download and manipulate t
 This is not a replacement for viewing the original admission books. Care was taken to minimize mistakes and inconsistencies while creating these datasets, but each one is being offered "as is". Despite the best efforts of all involved, mistakes often occur during the creation of datasets. Scholars are encouraged to consult the original records, in digital or physical format. Digitized versions are available through the collection finding aid: http://amphilsoc.org/collections/view?docId=ead/Mss.365.P381p-ead.xml
 
 ## License 
-These datasets are licensed under a [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/), feel free to copy and redistribute the material in any medium or format; go ahead and remix, transform, and build upon the material for any purpose. We just ask that you attribute the APS Library. 
+These datasets are available for anyone to evaluate, share, reuse, and remix as they wish under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 License</a>, and in accordance with the <a href="https://www.amphilsoc.org/sites/default/files/2018-12/attachments/APS_oap_20181120.pdf">APS Open Access Policy</a>. Please attribute APS Library & Museum. A sample citation can be found in the dataset documentation. 
 
 ## Credits
 Michelle Ziogas did the majority of the work; the project was initiated and managed by Scott Ziegler. 
