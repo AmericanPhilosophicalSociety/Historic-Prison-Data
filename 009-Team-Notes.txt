@@ -1,0 +1,164 @@
+Hi, guys -- just to let you know I am linked as a collaborator.  //Jim
+My comments:  You did a really good job on this, looking at both the visualizations and
+the data.  Nianh: I appreciate the time you spent in the csv files.
+I agree that two of the major shortcomings of the database are
+too short a time frame and too little demographic info.  Heidi's finding re
+the contrasting word frequencies in Moral Intructor notes for short-sentence
+vs long-sentence inmates is striking.  The group's findings on gender are
+interesting as well; from a data analysis point of view, one would wish for 
+more women prisoners! Also implicit in some of your observations is that the time
+span is not long enough to support analysis of historical trends.  Indeed, as Rob
+points out with respect to race vs sentence length, we can see possible
+patterns in this data that we cannot confirm without significantly larger sample
+sizes.  The pattern Phuong observed in moral language associated with literate vs
+illiterate prisoners probably does stand up -- and as Rob rightly says, this is a
+nice example of the way institutional discourse not only classifies individuals 
+but subjects them to biopower governance.
+
+you guys get 9.5/10 on this.
+
+Jim
+
+--PV First visualization--
+I did a visualization using the first app (Word Frequencies) to see which words were
+commonly used by the Moral Instructor to describe different groups of prisoners. I used
+a combination of the word clouds, comparative frequencies plot, and keyword exploration
+to find the most interesting keywords for these groups.
+Comparing male and female prisoners, I can see that:
+1. Words frequently used in the description of both groups are: hardened, stupid, attacked,
+mother (used in description of the inmate's family), religious (used in description of
+religious background)
+2. Words more frequently associated with female inmates are: licentiousness, tears, repent,
+shame, ill, husband (used in description of the inmate's husband), theft
+3. Words more frequently associated with male inmates are: drink, tavern, mind, rob, arrested
+(There are a lot of words but I just note down the interesting ones)
+The trend seems to be that female prisoners were associated with many conventionally "undesirable" 
+traits for women such as sexual promiscuity and weakness, while male prisoners were associated with 
+drinking and lack of sobriety more.
+A limitation in the data is that there are a lot more entries of male inmates than entries of
+female inmates, so it might be more difficult to make generalizations about female inmates.
+This could be the reason why there are more outliers for female inmates
+------
+
+--PV Second visualization--
+Continuing with the first app, I compared literate (able to read and write) and illiterate
+prisoners:
+1. Words frequently used in the description of both groups are: drink, parents, evil, religious,
+farmer
+2. Words more frequently associated with literate inmates are pious, law, bible, associations,
+admits
+3. Words more frequently associated with illiterate inmates are stupid, ignorant, enmity, soul
+The trend seems to be that more "respectful" words (containing religious references) were used 
+to describe literate inmates, while harsher and cruder words were used to describe illiterate inmates
+For this visualization, I only used 2 out of 4 categories for literacy. An additional visualization
+that would be interesting to do is to incorporate 2 other categories (reads only, and reads other
+languages) to see if there are any interesting differences from the two extremes
+----
+
+HK- I looked at App 3: Inmates by Length of Sentence
+ App 3 allows the user to select a range of months via an interactive slider
+ representing a sentencing length. The data utilized from the repo includes
+ admissions books A, B and D. The data is viewable in app at the bottom of the
+ page where inmate data is listed.
+
+ This application allows the user to switch between 3 different visualizations.
+ One tab contains bar graphs displaying demographical data based on sentencing
+ length.
+
+-----Visualization 1-----
+  This visualization "Demographic Data" confused me at first because the y-axis is not labeled
+  number of inmates sentenced for the sentencing length in months selected vs.
+  demographic categorizations.
+
+  I looked at demographic data on prisoners sentenced to between 100-150 months.
+  The results showed overwhelmingly more men than women were sentenced to this length.
+  (Although this result may be skewed by the years in which ESP was a male only facility.)
+  Most prisoners were 'Drinks,' which I assume means that they were described as
+  an individual who often partakes in alcoholic beverages.
+  There were more black than mixed-race prisoners, and the majority of ethnic data
+  was 'Left-blank,' which may mean either that they were white or that their ethnicity
+  was not recorded at all.
+
+  The categories along the x-axis are not given any context, which meant that my
+  interpretation of the graph's information was less reliable. If I were to add to
+  this project I would include explanations for the categorizations and contextual
+  information about the collecting of demographic data during the time period.
+
+ -----Visualization 2----
+ The next visualization tab. "Moral Instructor's Notes" utilizes the moral instructors 
+ notes to create a word
+ frequency visualization, the html formatting of which is difficult to read.
+ Sometimes words are too small to make out or are cut off by the display box.
+ Additional useful data to add to this tab would be; instead of listing admissions
+ data below the word frequencies, if the specific note displaying the word in context
+ and differentiating between moral instructors was visible below instead of just
+ the admissions data.
+
+ I did a word frequency visualization looking at words used in moral notes vs.
+ discharge notes for prisoners sentenced to between 0-26 months. Some of the largest
+ words used in moral notes for this relatively short sentencing length include
+ 'religious,' 'parents,' 'crime,' and 'father.' Largest words in the discharge
+ notes for this sentencing length include 'hope,' 'time,' 'discharge,' 'pardoned,'
+ and 'reformed.'
+-----Notes------
+ Another visualization using the prison data that would be interesting might be
+ a word frequency based on moral instructor, or based on demographic data. A user
+ could then explore diction based on time period in which the sentencing was given,
+ as well as what sort of words were used for demographic categories like male/female
+ or age.
+
+ "Data that would be interesting to add to the repo- admissions data past 1850
+ between then and when the prison closed in the 1970's. Ability to distinguish
+ data temporally might provide insight on the changing diction in sentencing notes
+ during different decades. I.e. language before widespread use of motor vehicles
+ on theft of horses vs. after vehicles are used widely.
+ 
+ --NH Overview--
+My observation was focused on App 2: Sentencing of Inmates.
+This App covered the patterns that were found in the sentencing of inmates. 
+Through this App you can edit the variables of each inmate (Gender, Ethicity, Race, Age, etc) 
+in order to see the average sentencing for this demographic and the locations where these 
+sentencings took place. Your result will also provide you with the inmates name, charge, 
+and prisoner number. If any of this information is unavailable the App indicates as such.
+
+--NH Visualization One--
+For my first visualization I decided to test the variables and enter in my own demographic 
+information to see what kind of results would appear. But, unfortunately no results appeared.
+I was surprised to see not one result appear but this did encouraged me to continue to slightly
+alter my demographic information in order to find an inmate(s) who matches that. I started working
+through the variables from top to bottom; starting with "Place of Birth" and ending with "Prior Convictions". When I did get a result, the information was led off by a graph with the 
+Y axis being "Inmates Sentences" and the X axis being "Sentence in Months". I found 
+this interesting because if you did not closely read the axis of the graph you might 
+assume that "Sentence" in the spreadsheet below is in "years" and not "months". Otherwise
+all of this information was easy to read, user-friendly, and interesting to engage with.
+
+--NH Visualization Two--
+For my second visualization I turned to investigate the sources that are listed in the 
+inmate spreadsheet. I first looked through "Volume B:Admissions". This volume is outsources 
+from the American Philisophical Society Library's website. From there you can view the 
+Admissions volume in pictures, zooming in on a specific page if you choose to, or simply 
+scrolling through pictures of the book itself. Additionally, a CSV dataset of the Admissions B 
+volume, which contains all the admissions from 1839-1843, shows an even more indepth look at 
+the data that is organized within the text. 
+
+--NH Visualization Three--
+For my third visualization I continued to explore the Admissions B CSV file. The spreadsheet 
+contained inmates: First Name, Last Name, Age, Birthplace, Ethnicity, Prison Number, 
+Admission Date Sentencing Location, Offense, Sentencing, Number of Convictions, Column Notes, 
+and Discharge Notes. It was really fascinating to scroll through the list of inmates and 
+their information and the personal notes that were added about them. What I also found
+interesting is that "Gender" was not listed as a category in this dataset and there was a
+mix of male and female inmates.
+
+
+------------------- RP: Visualization 1 -------------------
+For this visualization, I used app number two (sentencing of inmates histogram builder) to plot the sentence lengths for all inmates identified as European in their intake papers. It is quite clear from this graph that the sentences skew short; European prisoners are the only category which does not contain any sentences over ~5 years. This clearly supports the idea that, like the modern US criminal justice system, sentences skew harsher for people of color (e.g. black Americans) than white Americans. 
+With that said, this dataset suffers from a low sample size, likely because of the limitations of digitizing all of the prison’s data and the relatively lower population.
+One major shortcoming of this visualization tool is that you are only capable of displaying one graph at a time, which makes comparative analysis difficult. Given the current state of the project, it would be relatively trivial to include a few simple summary statistics as well as an option to select the number of graphs present at a time (which could be discerned by an auto-populated legend).
+-----------------------------------------------------------------
+
+------------------- RP: Visualization 2 -------------------
+My second visualization utilized the third app (Eastern State Penitentiary Inmates by Sentence) to display demographic information regarding inmates with sentences exceeding 100 months. Several interesting pieces of information jump out right away: this population overwhelmingly skews male, non-white (with no European individuals, the “left blank” option being most prominent, and people of color trailing close behind), literate, and towards alcohol use. My first thought is that it would be interesting to look further into the “left blank” category to identify whether or not people of color were more likely to have this section left blank. 
+I continued by looking to the crime and place information for this population, which skews towards more violent crime and, unlike the entire inmate population’s demographics, skews towards burglary over larceny (suggesting a more serious theft-related crime). In terms of the instructor’s notes, the population with sentences at or above 100 months contained many more occurrences of “died” and “pardoned.” 
+I found Phuong’s second visualization interesting given the conversation around Foucault from our recent class. It is interesting to see empirical evidence of how such labels so strongly shape the way we think about the people living around us and likely better enables biopower to be leveraged against this population.
+-----------------------------------------------------------------
